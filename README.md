@@ -1,20 +1,21 @@
-<h1>Hi 👋, I'm React Native Developer </h1>
-<p>A passionate frontend developer from Crafting seamless mobile experiences with React Native.</p>
-<h2>🚀 Languages and Tools I Use</h2>
-<p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="42" height="42" /></a>
-<a target="_blank" href="https://reactnative.dev/img/header_logo.svg" style="display: inline-block;"><img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="42" height="42" /></a></p>
-<h2>⚡️ Where to find me</h2>
-<p><a target="_blank" href="https://dev.to/https://dev.to/lokesh_anandan" style="display: inline-block;"><img src="https://img.shields.io/badge/dev-to?style=for-the-badge&logo=dev-to&logoColor=white&color=black" alt="dev.to" /></a>
-<a target="_blank" href="https://www.linkedin.com/in/https://www.linkedin.com/in/lokesh-anandan-275927346/" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=lokeshanandta&show_icons=true&locale=en" alt="lokeshanandta" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lokeshanandta&" alt="lokeshanandta" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=lokeshanandta&show_icons=true&locale=en&layout=compact" alt="lokeshanandta" /></p>
-<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lokeshanandta" alt="lokeshanandta" /></a></p>
+# 💫 About Me:
+👋 About Me<br>I'm a passionate React Native Developer with 3+ years of experience building high-performance, cross-platform mobile applications. I specialize in creating clean, scalable UIs and seamless API integrations. I’ve worked on a wide range of apps—from secure chat platforms to e-commerce solutions.<br><br>🔧 Tech Stack: React Native, TypeScript, Redux, Styled Components, Axios, Firebase, AWS Amplify, GraphQL, Mapbox<br><br>📱 Notable Work: SecureChat, LogIT Pro, ZenyQ, Secure Box, ExtScape<br><br>🚀 Strengths: Feature architecture, navigation flows, real-time data, performance optimization<br><br>💡 Focused on crafting user-centric mobile apps that solve real-world problems<br><br>Let’s build something amazing together!
+
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/lokesh-anandan-275927346/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:lokeshanandta@gmail.com) 
+
+# 💻 Tech Stack:
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Realm](https://img.shields.io/badge/Realm-39477F?style=for-the-badge&logo=realm&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=lokeshanandta&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=lokeshanandta&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=lokeshanandta&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=lokeshanandta&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lokeshanandta/lokeshanandta/output/github-snake-dark.svg" />
