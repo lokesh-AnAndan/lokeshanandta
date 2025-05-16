@@ -1,5 +1,7 @@
-# 💫 About Me:
-👋 About Me<br>I'm a passionate React Native Developer with 3+ years of experience building high-performance, cross-platform mobile applications. I specialize in creating clean, scalable UIs and seamless API integrations. I’ve worked on a wide range of apps—from secure chat platforms to e-commerce solutions.<br><br>🔧 Tech Stack: React Native, TypeScript, Redux, Styled Components, Axios, Firebase, AWS Amplify, GraphQL, Mapbox<br><br>📱 Notable Work: SecureChat, LogIT Pro, ZenyQ, Secure Box, ExtScape<br><br>🚀 Strengths: Feature architecture, navigation flows, real-time data, performance optimization<br><br>💡 Focused on crafting user-centric mobile apps that solve real-world problems<br><br>Let’s build something amazing together!
+
+
+# Hello World!, I'm Lokesh, a React Native Developer 👋🏼:
+🛜 currently working on my own [webpage](https://www.tobiasmeyhoefer.de)<br>👨🏼‍🎓Studied at Dr. M.G.R. Educational and Research Institute.<br>👨🏼‍💻 working as a Mobile App developer since 2019 
 
 
 ## 🌐 Socials:
